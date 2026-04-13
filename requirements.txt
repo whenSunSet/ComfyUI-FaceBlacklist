@@ -4,3 +4,4 @@ opencv-python
 insightface
 onnxruntime
 scikit-learn
+protobuf==7.34.0
